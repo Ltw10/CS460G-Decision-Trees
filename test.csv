@@ -1,0 +1,11 @@
+Refund,Marital Status,Taxable Income,Label
+Y,Single,1,0
+N,Married,1,0
+N,Single,0,0
+Y,Married,1,0
+N,Divorced,1,1
+N,Married,0,0
+Y,Divorced,1,0
+N,Single,1,1
+N,Married,1,0
+N,Single,1,1
